@@ -28,7 +28,7 @@ public class AdministradorDAO {
 		}
 		catch(Exception e)
 		{
-			System.out.print("\n" + e.getMessage());			
+			System.out.print("\nhh" + e.getMessage());			
 		}
 	}
 	
